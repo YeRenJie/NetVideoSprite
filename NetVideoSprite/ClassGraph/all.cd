@@ -1,0 +1,114 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="NetVideoSprite.TypeAChannel">
+    <Position X="0.75" Y="4.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>DAL\TypeAChannel.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="NetVideoSprite.ChannelBase">
+    <Position X="1" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAQAAAAAAACAAIAAAMAAAAAEgAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>DAL\ChannelBase.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="NetVideoSprite.ChannelFactory">
+    <Position X="6" Y="0.5" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>DAL\ChannelFactory.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="NetVideoSprite.ChannelManager">
+    <Position X="3.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAIACAAABAAAAARAAEAACABEBAAkgAgAAAAAgAAA=</HashCode>
+      <FileName>DAL\ChannelManager.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="NetVideoSprite.MainForm" Collapsed="true">
+    <Position X="12.25" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>pREAUClgArAgEswGgBCCFgIiBSAgIAAAICiAgwBFAIQ=</HashCode>
+      <FileName>UI\MainForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="NetVideoSprite.PlayForm" Collapsed="true">
+    <Position X="9.25" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAABAACAAABAAAACAAAACAAIAAAAAgAAAAAAAAAA=</HashCode>
+      <FileName>UI\PlayForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="NetVideoSprite.SplashForm" Collapsed="true">
+    <Position X="9.25" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAAAAAQACAAAACAAAAAAAAAAAAAAgAAAA=</HashCode>
+      <FileName>UI\SplashForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="NetVideoSprite.TypeBChannel">
+    <Position X="2.75" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>DAL\TypeBChannel.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="NetVideoSprite.Program" Collapsed="true">
+    <Position X="12.25" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="NetVideoSprite.Remind">
+    <Position X="7" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAABAAAAAAAAAAAAAAAAAAAIAAAICAEACAAAAAAA=</HashCode>
+      <FileName>DAL\Remind.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="NetVideoSprite.SerialFile">
+    <Position X="5.75" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ABAAAAAQAAAAAAAAAAAAAAAACAAAAAgAAAAAAEAAAAA=</HashCode>
+      <FileName>DAL\SerialFile.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="NetVideoSprite.test" Collapsed="true">
+    <Position X="12" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>UAAAAAEAACAAAAABAACBAAACAAAACAAAAEAAAIAAAIA=</HashCode>
+      <FileName>test.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="NetVideoSprite.aa" Collapsed="true">
+    <Position X="13.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgAQAAIAEAAAA=</HashCode>
+      <FileName>test.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="NetVideoSprite.TvPrograme">
+    <Position X="8.25" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>gAAAAAAAAAAAAAAAAAAAAAIAAAACAEAAAABABIAAAAQ=</HashCode>
+      <FileName>DAL\TvProgram.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="NetVideoSprite.Properties.Resources" Collapsed="true">
+    <Position X="10" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAABEAQAAQAAAAAAAAAAAAAAAIA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="NetVideoSprite.Properties.Settings" Collapsed="true">
+    <Position X="11.5" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAIAAAAAABAAAAAAAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="宋体" Size="9" />
+</ClassDiagram>
